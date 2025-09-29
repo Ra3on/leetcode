@@ -80,6 +80,7 @@
     "stack": "cpp",
     "streambuf": "cpp",
     "string": "cpp",
-    "string_view": "cpp"
+    "string_view": "cpp",
+    "unordered_set": "cpp"
   }
 }
